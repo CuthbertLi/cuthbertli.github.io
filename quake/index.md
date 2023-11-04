@@ -1,1 +1,2 @@
-..
+#Quake Magazine
+

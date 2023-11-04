@@ -1,2 +1,2 @@
-#Quake Magazine
+# Quake Magazine
 
